@@ -3,7 +3,7 @@
 👩🏽‍💻Software Developer and Human-centered Product Designer <br> 👩🏽‍🎓 B.A.Sc Human Behavior with a double minor in Linguistics and Community Engagement - McMaster University 
 
 # 💫 About Me:
-*📈 Dedicated to continuous learning and passionate about acquiring new knowledge.* <br>
+📈 Dedicated to continuous learning and passionate about acquiring new knowledge. <br>
 👋 I'm currently working on building an all-in-one platform for renting out courts for sports. My goal is to make it easy for people to book courts for various sports activities, providing a smooth and efficient user experience.<br> 🌱 I am currently learning: how to build full-stack software, with a focus on databases and connecting them to my Express server and ***Typescript***, which I'm using to level up my React projects and improve the overall maintainability of my code. <br> 🫱🏽‍🫲🏾 I am looking to collaborate on more open-source projects to expand my skills, and contribute to the community, as well as gain experience working in a professional development team and learning from senior developers. <br>💬 Ask me about my career goals. <br> 🛩️ I love traveling and learning languages—both human and tech languages! 🌍<br>
 
 
