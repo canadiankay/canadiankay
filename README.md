@@ -1,14 +1,20 @@
 
-# Nadia K
-👩🏽‍💻Software Developer and Human-centered Product Designer <br> 👩🏽‍🎓 B.A.Sc Human Behavior with a double minor in Linguistics and Community Engagement - McMaster University 
-
-# 💫 About Me:
-📈 Dedicated to continuous learning and passionate about acquiring new knowledge. <br>
-👋 I'm currently working on building an all-in-one platform for renting out courts for sports. My goal is to make it easy for people to book courts for various sports activities, providing a smooth and efficient user experience.<br> 🌱 I am currently learning: how to build full-stack software, with a focus on databases and connecting them to my Express server and ***Typescript***, which I'm using to level up my React projects and improve the overall maintainability of my code. <br> 🫱🏽‍🫲🏾 I am looking to collaborate on more open-source projects to expand my skills, and contribute to the community, as well as gain experience working in a professional development team and learning from senior developers. <br>💬 Ask me about my career goals. <br> 🛩️ I love traveling and learning languages—both human and tech languages! 🌍<br>
-
-
-## 🌐 Socials:
+# Hiya, I'm caNADIAn 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/nadiakasim/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadiakasim@hotmail.com) [![Nadia Kasim Website](https://img.shields.io/badge/Website-%23000000?logo=google-chrome&logoColor=white)](https://nadiakasim.netlify.app/)
+
+👩🏽‍💻 Software Developer and Designer who is an advocate for Human-Centered Tech committed to building accessible and aesthetic apps to improve the quality of life for all. <br> 
+👩🏽‍🎓 Graduated with a B.A.Sc Human Behavior with a double minor in Linguistics and Community Engagement from McMaster University 🇨🇦 <br>
+🛠 Fine-tuned my software engineering skills by obtaining a diploma at Brainstation 🇨🇦 <br>
+🫱🏽‍🫲🏾 I am looking to collaborate on more open-source projects to expand my skills and contribute to the community, as well as gain experience working in a professional development team and learning from senior developers. <br>
+🛩️ I am a lifelong learner who loves traveling and learning languages - both human and tech languages! 🌍 <br>
+
+#### Currently Learning
+🌱 I am currently learning ***Typescript*** to level up my React projects and improve the overall maintainability of my code. <br>
+⌨️ Working through Wes Bos' 30 Day JavaScript Challenge
+
+#### Current Work
+🥠 Cookie Cutter Advice: Revamping a hackathon project that gives users ironic, funny advice.
+⛹🏾‍♀️PLAYify: All-in-one platform for renting out sports facilities.
 
 # 💻 Technical Skills:
 ## Frontend Development
