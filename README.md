@@ -1,6 +1,8 @@
 
-# Hiya, I'm caNADIAn 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/nadiakasim/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadiakasim@hotmail.com) [![Nadia Kasim Website](https://img.shields.io/badge/Website-%23000000?logo=google-chrome&logoColor=white)](https://nadiakasim.netlify.app/)
+<center> 
+ # Hiya, I'm caNADIAn 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/nadiakasim/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadiakasim@hotmail.com) [![Nadia Kasim Website]([https://img.shields.io/badge/Website-%23000000?logo=google-chrome&logoColor=white](https://img.shields.io/badge/My%20Portfolio-%23000000?logo=google-chrome&logoColor=white))](https://nadiakasim.netlify.app/)
+</center>
 
 👩🏽‍💻 Software Developer and Designer who is an advocate for Human-Centered Tech committed to building accessible and aesthetic apps to improve the quality of life for all. <br> 
 👩🏽‍🎓 Graduated with a B.A.Sc Human Behavior with a double minor in Linguistics and Community Engagement from McMaster University 🇨🇦 <br>
@@ -13,7 +15,8 @@
 ⌨️ Working through Wes Bos' 30 Day JavaScript Challenge
 
 #### Current Work
-🥠 Cookie Cutter Advice: Revamping a hackathon project that gives users ironic, funny advice.
+🎨 [My Portfolio] (https://nadiakasim.netlify.app/) **in-progress*
+🥠 Cookie Cutter Advice: Revamping a hackathon project that gives users ironic, funny advice.<br>
 ⛹🏾‍♀️PLAYify: All-in-one platform for renting out sports facilities.
 
 # 💻 Technical Skills:
@@ -35,8 +38,6 @@
 ## Testing, Version Control, and Other Technologies 
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-### ✍️ Quote I live by
-*Aspire to inspire before you expire.*
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=canadiankay&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
