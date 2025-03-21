@@ -1,8 +1,8 @@
 
-<center> 
- # Hiya, I'm caNADIAn 👋
+
+ # Hiya, I'm caNADIAn 👋 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/nadiakasim/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadiakasim@hotmail.com) [![Nadia Kasim Website]([https://img.shields.io/badge/Website-%23000000?logo=google-chrome&logoColor=white](https://img.shields.io/badge/My%20Portfolio-%23000000?logo=google-chrome&logoColor=white))](https://nadiakasim.netlify.app/)
-</center>
+
 
 👩🏽‍💻 Software Developer and Designer who is an advocate for Human-Centered Tech committed to building accessible and aesthetic apps to improve the quality of life for all. <br> 
 👩🏽‍🎓 Graduated with a B.A.Sc Human Behavior with a double minor in Linguistics and Community Engagement from McMaster University 🇨🇦 <br>
