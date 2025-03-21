@@ -11,7 +11,7 @@
 🛩️ I am a lifelong learner who loves traveling and learning languages - both human and tech languages! 🌍 <br>
 
 ### Currently Learning
-🌱 I am currently learning ***Typescript*** to level up my React projects and improve the overall maintainability of my code. <br>
+🌱 I am currently learning ***Typescript*** to level up my React projects and improve the overall maintainability of my code, and **Next.js** to improve my portfolio site performance and for SEO by server-side rendering (SSR) rather than having it client-side<br>
 ⌨️ Working through Wes Bos' 30 Day JavaScript Challenge
 
 ### Current Work
