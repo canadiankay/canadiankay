@@ -10,12 +10,12 @@
 🫱🏽‍🫲🏾 I am looking to collaborate on more open-source projects to expand my skills and contribute to the community, as well as gain experience working in a professional development team and learning from senior developers. <br>
 🛩️ I am a lifelong learner who loves traveling and learning languages - both human and tech languages! 🌍 <br>
 
-#### Currently Learning
+### Currently Learning
 🌱 I am currently learning ***Typescript*** to level up my React projects and improve the overall maintainability of my code. <br>
 ⌨️ Working through Wes Bos' 30 Day JavaScript Challenge
 
-#### Current Work
-🎨 [My Portfolio] (https://nadiakasim.netlify.app/) **in-progress*
+### Current Work
+🎨 [My Portfolio](https://nadiakasim.netlify.app/) **in-progress* <br>
 🥠 Cookie Cutter Advice: Revamping a hackathon project that gives users ironic, funny advice.<br>
 ⛹🏾‍♀️PLAYify: All-in-one platform for renting out sports facilities.
 
