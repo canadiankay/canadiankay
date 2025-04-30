@@ -16,8 +16,8 @@
 
 ### Current Work
 🎨 [My Portfolio](https://nadiakasim.netlify.app/) **in-progress* <br>
-🥠 Cookie Cutter Advice: Revamping a hackathon project that gives users ironic, funny advice.<br>
-⛹🏾‍♀️PLAYify: All-in-one platform for renting out sports facilities.
+🥠 Cookie-Cutter Advice: Revamping a hackathon project that gives users ironic, funny advice.<br>
+⛹🏾‍♀️PLAYify: All-in-one facility search and booking platform.
 
 # 💻 Technical Skills:
 ## Frontend Development
